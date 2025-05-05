@@ -72,13 +72,13 @@ Ajuste as credenciais do banco no arquivo `ConexaoDAO.java`.
     ├── view/ # Telas Swing
     ├── dao/ # Conexão e operações no BD
     ├── model/ # Entidades (Usuario, Funcionario)
-    ├── image/ # Ícones e Imagens utilizados
+    ├── imagem/ # Ícones e Imagens utilizados
     └── utils/ # Auxiliares (Criptografia, Validações)
 
 ## Como Executar  
 
 1. Inicie o servidor PostgreSQL
-2. Execute a classe `LoginScreen.java`
+2. Execute a classe `CadFuncApp.java`
 3. Fluxo sugerido:
    - Cadastre novo usuário
    - Faça login com as credenciais
