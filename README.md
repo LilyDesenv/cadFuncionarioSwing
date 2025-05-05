@@ -16,7 +16,7 @@ Projeto Java Swing desenvolvido no NetBeans que implementa:
 
 ## Instalação 
 
-git clone [https://github.com/LilyDesenv/cadFuncionarioSwing]
+git clone [https://github.com/LilyDesenv/cadFuncionarioSwing.git]
 
 1. Importe o projeto no NetBeans  
 2. Adicione o driver JDBC às dependências do projeto  
