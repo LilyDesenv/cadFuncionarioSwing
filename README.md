@@ -13,6 +13,7 @@ Projeto Java Swing desenvolvido no NetBeans que implementa:
 ✅ NetBeans IDE  
 ✅ PostgreSQL 14+  
 ✅ Driver JDBC PostgreSQL ([baixar aqui](https://jdbc.postgresql.org/download.html))
+✅ Biblioteca JCalendar para interface do calendário ([baixar aqui](https://repo1.maven.org/maven2/com/toedter/jcalendar/1.4/jcalendar-1.4.jar))
 
 ## Instalação 
 
